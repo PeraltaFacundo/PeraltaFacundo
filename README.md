@@ -4,7 +4,7 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador con experiencia en el desarrollo de apps móviles utilizando tecnologías modernas como **React Native**, **Firebase**, y **Tailwind CSS**. Me interesa construir productos que realmente aporten valor al usuario final, con una atención especial a la experiencia y la usabilidad.
+Soy un desarrollador con experiencia en el desarrollo de apps móviles utilizando tecnologías modernas como **React **, **Firebase**, y **CSS**. Me interesa construir productos que realmente aporten valor al usuario final, con una atención especial a la experiencia y la usabilidad.
 
 ---
 
